@@ -1,5 +1,11 @@
 button {
-    background-color: #fb641b;
+    padding: 18px 8px;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    width: 200px;
+    font-size: 16px;
+    font-weight: 600;
 }
 div {
     background-color: lawngreen;
